@@ -108,7 +108,7 @@
         <mxCell id="WDn3H4F-wHe1XtXmwJ9_-27" value="tiene" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="130" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WDn3H4F-wHe1XtXmwJ9_-28" value="0..N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WDn3H4F-wHe1XtXmwJ9_-28" value="1..N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="98" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WDn3H4F-wHe1XtXmwJ9_-29" value="0..N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
