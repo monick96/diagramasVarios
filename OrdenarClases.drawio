@@ -217,8 +217,8 @@
         <mxCell id="Hj_mvoe4v4G8sIlKdI5h-82" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1480" y="340" width="590" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Hj_mvoe4v4G8sIlKdI5h-83" value="1-&amp;nbsp;&lt;span style=&quot;font-size:11.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Calibri&amp;quot;,&amp;quot;sans-serif&amp;quot;;mso-fareast-font-family:Calibri;mso-ansi-language:&lt;br/&gt;ES-AR;mso-fareast-language:ES-AR;mso-bidi-language:AR-SA&quot;&gt;En el siguiente&lt;br/&gt;diagrama se muestran muchas clases mezcladas. Algunas son padres de otras. Arme&lt;br/&gt;los grupos de clases cuya relación de &lt;b&gt;herencia&lt;/b&gt; &lt;b&gt;tenga&lt;/b&gt; &lt;b&gt;sentido&lt;/b&gt;&lt;br/&gt;según el criterio utilizado en POO.&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:11.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Calibri&amp;quot;,&amp;quot;sans-serif&amp;quot;;mso-fareast-font-family:Calibri;mso-ansi-language:&lt;br/&gt;ES-AR;mso-fareast-language:ES-AR;mso-bidi-language:AR-SA&quot;&gt;&lt;b&gt;Tenga en cuenta que pueden quedar clases&lt;br/&gt;sueltas&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1425" y="-300" width="580" height="110" as="geometry" />
+        <mxCell id="Hj_mvoe4v4G8sIlKdI5h-83" value="&lt;b&gt;1-&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1430" y="-230" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hj_mvoe4v4G8sIlKdI5h-88" value="Animal" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1425" y="520" width="160" height="216" as="geometry" />
@@ -354,6 +354,18 @@
             <mxPoint x="-1370" y="978" as="sourcePoint" />
             <mxPoint x="-1310" y="1048" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Hj_mvoe4v4G8sIlKdI5h-128" value="&lt;i&gt;*la flecha con extends&lt;/i&gt;&lt;div&gt;&lt;i&gt;&amp;nbsp;lo aprendimos&lt;/i&gt;&lt;div&gt;&lt;i&gt;&amp;nbsp;en la clase de modelado&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1230" y="-150" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hj_mvoe4v4G8sIlKdI5h-129" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-1510" y="1168" as="sourcePoint" />
+            <mxPoint x="-830" y="1168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hj_mvoe4v4G8sIlKdI5h-130" value="&lt;b&gt;4-&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1505" y="1178" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
