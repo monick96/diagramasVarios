@@ -51,21 +51,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--13" value="Barco" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="270" y="424" width="180" height="112" as="geometry">
+          <mxGeometry x="270" y="424" width="200" height="96" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zkfFHV4jXpPFQw0GAbJ--14" value="Salary" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--13" vertex="1">
-          <mxGeometry y="26" width="180" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--15" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--13" vertex="1">
-          <mxGeometry y="52" width="180" height="8" as="geometry" />
+          <mxGeometry y="26" width="200" height="8" as="geometry" />
         </mxCell>
         <mxCell id="QT5-kErvMyWDPy3g1TAe-6" value="+ calcularConsumoCombustible()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--13">
-          <mxGeometry y="60" width="180" height="26" as="geometry" />
+          <mxGeometry y="34" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QT5-kErvMyWDPy3g1TAe-5" value="+ navegar()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--13">
-          <mxGeometry y="86" width="180" height="26" as="geometry" />
+          <mxGeometry y="60" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--16" value="" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--13" target="zkfFHV4jXpPFQw0GAbJ--0" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -113,24 +110,44 @@
         <mxCell id="QT5-kErvMyWDPy3g1TAe-11" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="QT5-kErvMyWDPy3g1TAe-8">
           <mxGeometry y="78" width="192" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="QT5-kErvMyWDPy3g1TAe-12" value="Motor" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QT5-kErvMyWDPy3g1TAe-12" value="TipoCombustible&#xa;&lt;&lt;enum&gt;&gt;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="770" y="240" width="192" height="100" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QT5-kErvMyWDPy3g1TAe-13" value="potencia:int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QT5-kErvMyWDPy3g1TAe-12">
-          <mxGeometry y="26" width="192" height="26" as="geometry" />
+          <mxGeometry y="40" width="192" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QT5-kErvMyWDPy3g1TAe-14" value="tipoCombustible: TipoCombustible" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="QT5-kErvMyWDPy3g1TAe-12">
-          <mxGeometry y="52" width="192" height="26" as="geometry" />
+          <mxGeometry y="66" width="192" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QT5-kErvMyWDPy3g1TAe-15" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="QT5-kErvMyWDPy3g1TAe-12">
-          <mxGeometry y="78" width="192" height="8" as="geometry" />
+          <mxGeometry y="92" width="192" height="8" as="geometry" />
         </mxCell>
         <mxCell id="QT5-kErvMyWDPy3g1TAe-16" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=1.01;entryY=0.192;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QT5-kErvMyWDPy3g1TAe-10" target="QT5-kErvMyWDPy3g1TAe-2">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="550" y="340" as="sourcePoint" />
             <mxPoint x="710" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QT5-kErvMyWDPy3g1TAe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.923;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QT5-kErvMyWDPy3g1TAe-10" target="QT5-kErvMyWDPy3g1TAe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QT5-kErvMyWDPy3g1TAe-18" value="VehiculoNavegable&#xa;&lt;&lt;interface&gt;&gt;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="424" width="192" height="80" as="geometry">
+            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QT5-kErvMyWDPy3g1TAe-21" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="QT5-kErvMyWDPy3g1TAe-18">
+          <mxGeometry y="40" width="192" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="QT5-kErvMyWDPy3g1TAe-22" value="+ navegar()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="QT5-kErvMyWDPy3g1TAe-18">
+          <mxGeometry y="48" width="192" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QT5-kErvMyWDPy3g1TAe-23" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QT5-kErvMyWDPy3g1TAe-6" target="QT5-kErvMyWDPy3g1TAe-22">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="440" y="420" as="sourcePoint" />
+            <mxPoint x="600" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
