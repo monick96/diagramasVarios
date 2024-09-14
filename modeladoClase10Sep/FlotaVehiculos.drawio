@@ -110,7 +110,7 @@
         <mxCell id="QT5-kErvMyWDPy3g1TAe-11" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="QT5-kErvMyWDPy3g1TAe-8" vertex="1">
           <mxGeometry y="78" width="192" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="QT5-kErvMyWDPy3g1TAe-12" value="TipoCombustible&#xa;&lt;&lt;enum&gt;&gt;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="QT5-kErvMyWDPy3g1TAe-12" value="TipoCombustible&#xa;&lt;&lt;enumeration&gt;&gt;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="770" y="240" width="192" height="100" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
