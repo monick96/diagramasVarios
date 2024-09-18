@@ -186,6 +186,26 @@
         <mxCell id="fPEa8i2YBese7cWv3VnU-35" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="610" y="720" width="290" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="fPEa8i2YBese7cWv3VnU-37" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="fPEa8i2YBese7cWv3VnU-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755" y="780" as="targetPoint" />
+            <mxPoint x="630" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fPEa8i2YBese7cWv3VnU-38" value="Enviar mensaje" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="695" y="780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fPEa8i2YBese7cWv3VnU-39" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="fPEa8i2YBese7cWv3VnU-38" parent="1" target="fPEa8i2YBese7cWv3VnU-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fPEa8i2YBese7cWv3VnU-40" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="740" y="865" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fPEa8i2YBese7cWv3VnU-41" value="Fin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="868" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
