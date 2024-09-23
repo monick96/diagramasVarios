@@ -180,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MIntQTgX8ANp2xKSaKh1-56" value="*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="150" width="30" height="30" as="geometry" />
+          <mxGeometry x="560" y="140" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MIntQTgX8ANp2xKSaKh1-58" value="*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="260" width="30" height="30" as="geometry" />
