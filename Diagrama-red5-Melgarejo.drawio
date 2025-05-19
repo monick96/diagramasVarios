@@ -19,7 +19,7 @@
           <mxGeometry x="790" y="140" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-6" value="Planta Baja" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="880" y="-110" width="780" height="1190" as="geometry">
+          <mxGeometry x="880" y="-110" width="770" height="1170" as="geometry">
             <mxRectangle x="925" y="10" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -225,7 +225,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-72" value="Primer piso" style="swimlane;" vertex="1" parent="ujHQRO3X1-FNZ4XKkL28-6">
-          <mxGeometry y="570" width="770" height="610" as="geometry" />
+          <mxGeometry y="570" width="770" height="600" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-74" value="Red acceso a clientes" style="swimlane;" vertex="1" parent="ujHQRO3X1-FNZ4XKkL28-72">
           <mxGeometry x="230" y="30" width="540" height="220" as="geometry" />
