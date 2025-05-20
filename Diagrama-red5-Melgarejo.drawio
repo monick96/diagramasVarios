@@ -44,7 +44,7 @@
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-15" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="ujHQRO3X1-FNZ4XKkL28-6">
           <mxGeometry x="130" y="185" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ujHQRO3X1-FNZ4XKkL28-18" value="firewell" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ujHQRO3X1-FNZ4XKkL28-6">
+        <mxCell id="ujHQRO3X1-FNZ4XKkL28-18" value="firewall" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ujHQRO3X1-FNZ4XKkL28-6">
           <mxGeometry x="125" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-22" value="Red solo empleados &#xa;y dispositivos de local" style="swimlane;startSize=40;" vertex="1" parent="ujHQRO3X1-FNZ4XKkL28-6">
