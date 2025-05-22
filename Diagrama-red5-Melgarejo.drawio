@@ -248,9 +248,9 @@
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-101" value="AP Wi-Fi interno" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ujHQRO3X1-FNZ4XKkL28-94" vertex="1">
           <mxGeometry x="150" y="245" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ujHQRO3X1-FNZ4XKkL28-110" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeColor=#6881B3;strokeWidth=2;fontFamily=Verdana;fontSize=28;fontColor=#0066CC;exitX=0.938;exitY=0.165;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ujHQRO3X1-FNZ4XKkL28-94" source="ujHQRO3X1-FNZ4XKkL28-131" target="ujHQRO3X1-FNZ4XKkL28-98" edge="1">
+        <mxCell id="ujHQRO3X1-FNZ4XKkL28-110" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeColor=#6881B3;strokeWidth=2;fontFamily=Verdana;fontSize=28;fontColor=#0066CC;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ujHQRO3X1-FNZ4XKkL28-94" target="ujHQRO3X1-FNZ4XKkL28-98" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="190" as="sourcePoint" />
+            <mxPoint x="96" y="95" as="sourcePoint" />
             <mxPoint x="370" y="187.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
