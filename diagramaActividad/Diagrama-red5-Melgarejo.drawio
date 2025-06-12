@@ -137,7 +137,7 @@
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-56" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" parent="ujHQRO3X1-FNZ4XKkL28-57" vertex="1">
           <mxGeometry x="70" y="62.5" width="80" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="ujHQRO3X1-FNZ4XKkL28-91" value="VLAN50" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ujHQRO3X1-FNZ4XKkL28-57" vertex="1">
+        <mxCell id="ujHQRO3X1-FNZ4XKkL28-91" value="VLAN40" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ujHQRO3X1-FNZ4XKkL28-57" vertex="1">
           <mxGeometry y="95" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-69" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeColor=#6881B3;strokeWidth=2;fontFamily=Verdana;fontSize=28;fontColor=#0066CC;entryX=0.95;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.727;exitDx=0;exitDy=0;exitPerimeter=0;" parent="ujHQRO3X1-FNZ4XKkL28-57" edge="1">
@@ -149,7 +149,7 @@
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-138" value="Clientes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ujHQRO3X1-FNZ4XKkL28-57" vertex="1">
           <mxGeometry x="410" y="140" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_eR_5CfjD1vUc8YQEsAN-20" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;192.168.20.1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ujHQRO3X1-FNZ4XKkL28-57" vertex="1">
+        <mxCell id="_eR_5CfjD1vUc8YQEsAN-20" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;192.168.40.1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ujHQRO3X1-FNZ4XKkL28-57" vertex="1">
           <mxGeometry x="95" y="165" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-81" value="VLAN20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ujHQRO3X1-FNZ4XKkL28-22" vertex="1">
@@ -257,7 +257,7 @@
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-139" value="Clientes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ujHQRO3X1-FNZ4XKkL28-74" vertex="1">
           <mxGeometry x="410" y="140" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_eR_5CfjD1vUc8YQEsAN-21" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;192.168.20.2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ujHQRO3X1-FNZ4XKkL28-74" vertex="1">
+        <mxCell id="_eR_5CfjD1vUc8YQEsAN-21" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;192.168.40.2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ujHQRO3X1-FNZ4XKkL28-74" vertex="1">
           <mxGeometry x="145" y="130" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-94" value="Red solo empleados &#xa;y dispositivos de local" style="swimlane;startSize=40;" parent="ujHQRO3X1-FNZ4XKkL28-72" vertex="1">
@@ -302,7 +302,7 @@
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-131" value="VLAN30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ujHQRO3X1-FNZ4XKkL28-94" vertex="1">
           <mxGeometry x="30" y="80" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ujHQRO3X1-FNZ4XKkL28-133" value="VLAN40" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ujHQRO3X1-FNZ4XKkL28-94" vertex="1">
+        <mxCell id="ujHQRO3X1-FNZ4XKkL28-133" value="VLAN10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ujHQRO3X1-FNZ4XKkL28-94" vertex="1">
           <mxGeometry x="80" y="275" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-140" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.users;" parent="ujHQRO3X1-FNZ4XKkL28-94" vertex="1">
@@ -357,7 +357,7 @@
             <mxPoint x="170" y="595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ujHQRO3X1-FNZ4XKkL28-92" value="VLAN50" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ujHQRO3X1-FNZ4XKkL28-6" vertex="1">
+        <mxCell id="ujHQRO3X1-FNZ4XKkL28-92" value="VLAN40" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ujHQRO3X1-FNZ4XKkL28-6" vertex="1">
           <mxGeometry x="230" y="640" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-93" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeColor=#6881B3;strokeWidth=2;fontFamily=Verdana;fontSize=28;fontColor=#0066CC;exitX=0.088;exitY=0.741;exitDx=0;exitDy=0;exitPerimeter=0;" parent="ujHQRO3X1-FNZ4XKkL28-6" source="ujHQRO3X1-FNZ4XKkL28-73" target="ujHQRO3X1-FNZ4XKkL28-92" edge="1">
