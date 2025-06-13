@@ -51,10 +51,10 @@
           <mxGeometry x="240" y="30" width="530" height="540" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-42" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" parent="ujHQRO3X1-FNZ4XKkL28-22" vertex="1">
-          <mxGeometry x="260" y="270" width="20" height="35" as="geometry" />
+          <mxGeometry x="230" y="270" width="20" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-43" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" parent="ujHQRO3X1-FNZ4XKkL28-22" vertex="1">
-          <mxGeometry x="340" y="270" width="20" height="35" as="geometry" />
+          <mxGeometry x="315" y="265" width="20" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-46" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" parent="ujHQRO3X1-FNZ4XKkL28-22" vertex="1">
           <mxGeometry x="412.5" y="130" width="60" height="45" as="geometry" />
@@ -111,10 +111,10 @@
           <mxGeometry x="30" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-54" value="Smarthone 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ujHQRO3X1-FNZ4XKkL28-22" vertex="1">
-          <mxGeometry x="230" y="305" width="90" height="30" as="geometry" />
+          <mxGeometry x="195" y="305" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-55" value="Smarthone 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ujHQRO3X1-FNZ4XKkL28-22" vertex="1">
-          <mxGeometry x="310" y="305" width="90" height="30" as="geometry" />
+          <mxGeometry x="280" y="305" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-57" value="Red acceso a clientes" style="swimlane;" parent="ujHQRO3X1-FNZ4XKkL28-22" vertex="1">
           <mxGeometry y="340" width="530" height="200" as="geometry" />
@@ -210,10 +210,10 @@
           <mxGeometry x="422.5" y="290" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_eR_5CfjD1vUc8YQEsAN-12" value="&lt;b style=&quot;--tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; text-wrap-mode: wrap;&quot;&gt;IP via DHCP&lt;/b&gt;&lt;br&gt;&lt;table&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ujHQRO3X1-FNZ4XKkL28-22" vertex="1">
-          <mxGeometry x="215" y="235" width="90" height="30" as="geometry" />
+          <mxGeometry x="195" y="235" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eR_5CfjD1vUc8YQEsAN-15" value="&lt;b style=&quot;--tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; text-wrap-mode: wrap;&quot;&gt;IP via DHCP&lt;/b&gt;&lt;br&gt;&lt;table&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ujHQRO3X1-FNZ4XKkL28-22" vertex="1">
-          <mxGeometry x="305" y="235" width="90" height="30" as="geometry" />
+          <mxGeometry x="280" y="235" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-67" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeColor=#6881B3;strokeWidth=2;fontFamily=Verdana;fontSize=28;fontColor=#0066CC;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ujHQRO3X1-FNZ4XKkL28-6" source="Ij9flRo5yQgYqMYjxoVD-46" target="ujHQRO3X1-FNZ4XKkL28-19" edge="1">
           <mxGeometry relative="1" as="geometry">
