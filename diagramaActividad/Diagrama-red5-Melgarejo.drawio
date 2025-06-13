@@ -10,13 +10,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5c82df7aa0dc6260-22" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.business_center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="780" y="50" width="70" height="86" as="geometry" />
+          <mxGeometry x="760" y="50" width="70" height="86" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-2" value="&lt;b&gt;Internet&lt;/b&gt;" style="html=1;outlineConnect=0;fillColor=#0050ef;strokeColor=#001DBC;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="760" y="-80" width="110" height="60" as="geometry" />
+          <mxGeometry x="740" y="-80" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-4" value="&lt;b&gt;ISP&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="790" y="140" width="50" height="30" as="geometry" />
+          <mxGeometry x="770" y="150" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ujHQRO3X1-FNZ4XKkL28-6" value="Planta Baja" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="880" y="-133" width="770" height="1173" as="geometry">
@@ -447,11 +447,14 @@
         <mxCell id="PRw8VxVHnsEdsV0Q-7NB-15" value="&lt;b style=&quot;--tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; text-wrap-mode: wrap;&quot;&gt;Red: 192.168.40.0/24&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6D1F00;fillColor=#a0522d;fontColor=#ffffff;" vertex="1" parent="ujHQRO3X1-FNZ4XKkL28-6">
           <mxGeometry x="15" y="473" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ujHQRO3X1-FNZ4XKkL28-70" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeColor=#6881B3;strokeWidth=2;fontFamily=Verdana;fontSize=28;fontColor=#0066CC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.719;entryY=0.466;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ujHQRO3X1-FNZ4XKkL28-2" target="5c82df7aa0dc6260-22" edge="1">
+        <mxCell id="ujHQRO3X1-FNZ4XKkL28-70" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeColor=#6881B3;strokeWidth=2;fontFamily=Verdana;fontSize=28;fontColor=#0066CC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.719;entryY=0.466;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="5c82df7aa0dc6260-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1132" y="180" as="sourcePoint" />
-            <mxPoint x="1080" y="405" as="targetPoint" />
+            <mxPoint x="795" y="-20" as="sourcePoint" />
+            <mxPoint x="1060" y="405" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PRw8VxVHnsEdsV0Q-7NB-16" value="&lt;b&gt;DNS:&lt;br&gt;&amp;nbsp;www.elsaborescondido.com.ar&lt;br&gt;IP pública:&amp;nbsp;&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-230" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
