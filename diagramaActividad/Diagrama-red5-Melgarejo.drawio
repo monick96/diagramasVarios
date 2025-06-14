@@ -453,8 +453,8 @@
             <mxPoint x="1060" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PRw8VxVHnsEdsV0Q-7NB-16" value="&lt;b&gt;DNS:&lt;br&gt;&amp;nbsp;www.elsaborescondido.com.ar&lt;br&gt;IP pública:&amp;nbsp;&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="890" y="-230" width="200" height="60" as="geometry" />
+        <mxCell id="PRw8VxVHnsEdsV0Q-7NB-16" value="&lt;b&gt;DNS:&lt;br&gt;&amp;nbsp;www.elsaborescondido.com.ar&lt;br&gt;IP pública:&amp;nbsp;&amp;nbsp;&lt;/b&gt;203.0.113.150" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=light-dark(#314354, #147bdb);fillColor=#647687;fontColor=#ffffff;shadow=1;glass=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-200" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
